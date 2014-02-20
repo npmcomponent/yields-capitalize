@@ -1,0 +1,10 @@
+{
+  "name": "yields-capitalize",
+  "description": "if i only had a nickel for every time i wrote this...",
+  "version": "1.0.0",
+  "keywords": [
+    "capitalize",
+    "words"
+  ],
+  "dependencies": {}
+}
